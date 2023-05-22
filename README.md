@@ -1,4 +1,4 @@
-<h1 style="color: #44AEFB; text-align: center; justify; margin: 0 50px;"> Geisiel Melo </h1>
+<h1 align="center" style="color: #44AEFB; text-align: center; justify; margin: 0 50px;"> Geisiel Melo </h1>
 
 <p align="center" style="text-align: center; justify; margin: 0 50px; font-size: 17px;" >
 I am a passionate developer committed to improving people's lives and making things easier through the development of applications and websites. I decided to venture into the world of programming because I find the power to create and transform ideas into reality truly incredible.
@@ -15,7 +15,6 @@ Since then, I have dedicated myself to studying and enhancing my skills. Every l
 <br>
 
 <!---------------------------------- Frontend --------------------------------->
-<hr>
 <h2 align="center" style="color: #44AEFB">Frontend Tools</h2>
 <br>   
 <!-- Icons Resources -->
@@ -42,7 +41,6 @@ Since then, I have dedicated myself to studying and enhancing my skills. Every l
 <br>
 
 <!--------------------------------- Backend ----------------------------------->
-<hr>
 <h2 align="center" style="color: #44AEFB">Backend Tools</h2>
 <br>   
 <!-- Icons Resources -->
@@ -70,7 +68,6 @@ Since then, I have dedicated myself to studying and enhancing my skills. Every l
 <br>
 <!--------------------------------- Dev Tools --------------------------------->
 
-<hr>
 <h2 align="center" style="color: #44AEFB">Dev Tools</h2>
 <br>   
 <!-- Icons Resources -->
@@ -87,12 +84,11 @@ Since then, I have dedicated myself to studying and enhancing my skills. Every l
   <a href="https://desktop.github.com/" target="_blank" rel="noreferrer">
       <img  alt="Git" height="30px" weight="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
   </a>
-<hr>
 <!-------------------------------- Statistics --------------------------------->
-
-
-![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
-
+<br>
+<br>
+<br>
+<br>
 <!-- Begin Stats Cards -->
 <div class="stats" align="center">
 
