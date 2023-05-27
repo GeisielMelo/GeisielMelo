@@ -87,7 +87,7 @@ Since then, I have dedicated myself to studying and enhancing my skills. Every l
 <!-- Begin Stats Cards -->
 <div class="stats" align="center">
 
-![Geisiel Melo GitHub Stats](https://github-readme-stats.vercel.app/api?username=GeisielMelo&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
+<!--![Geisiel Melo GitHub Stats](https://github-readme-stats.vercel.app/api?username=GeisielMelo&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)-->
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=GeisielMelo&count_private=true&theme=algolia&border_radius=20)
 
