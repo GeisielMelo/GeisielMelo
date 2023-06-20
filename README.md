@@ -27,9 +27,6 @@ Since then, I have dedicated myself to studying and enhancing my skills. Every l
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
       <img  alt="CSS" height="30px" weight="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-      <img  alt="Figma" height="30px" weight="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
-  </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
       <img  alt="ReactJS" height="30px" weight="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   </a> 
@@ -62,6 +59,9 @@ Since then, I have dedicated myself to studying and enhancing my skills. Every l
   </a>
     <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
       <img  alt="Canva" height="30px" weight="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/> 
+  </a>
+      <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+      <img  alt="Figma" height="30px" weight="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
   </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
       <img  alt="Git" height="30px" weight="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
