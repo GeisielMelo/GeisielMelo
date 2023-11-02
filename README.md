@@ -1,98 +1,50 @@
-<h1 align="center" style="color: #44AEFB; text-align: center; justify; margin: 0 50px;"> Geisiel Melo </h1>
+# <div align="center">Full Stack Developer</div>
 
-<p align="center" style="text-align: center; justify; margin: 0 50px; font-size: 17px;" >
-I am a passionate developer committed to improving people's lives and making things easier through the development of applications and websites. I decided to venture into the world of programming because I find the power to create and transform ideas into reality truly incredible.
-Since my childhood, I have developed an interest in creating mods for games and simple desktop applications. These experiences have sparked my curiosity and made me question, 'Why not turn this passion into my profession?'
-Since then, I have dedicated myself to studying and enhancing my skills. Every line of code I write is a step towards my goal of making programming my career.
-<br>
-<br>
+### <div align="center">Visit my [Portfolio](https://geisielmelo.netlify.app/), It's the perfect place to get to know me better!</div>
 
-<div align="center" style="margin:15px;">
-    <a href="mailto:geisiel.nascimento@gmail.com" target="_blank">
-        <img style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531383-ddb2b774-5bb9-491c-b601-4a4a7d9792fb.svg" alt="gmail" width="40px"/>
-    </a>
-</div>
-</p>    
-
-
-<!---------------------------------- Frontend --------------------------------->
-<h4 align="center" style="color: #44AEFB">Frontend</h2>
 <div align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <img  alt="JavaScript" height="30px" weight="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-      <img  alt="HTML" height="30px" weight="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-      <img  alt="CSS" height="30px" weight="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-      <img  alt="ReactJS" height="30px" weight="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  </a> 
-</div>
-          
-<!--------------------------------- Backend ----------------------------------->
-<h4 align="center" style="color: #44AEFB">Backend</h2>
-<div align="center">
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-      <img  alt="NodeJS" height="30px" weight="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-      <img  alt="Express" height="30px" weight="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />     
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-      <img  alt="MongoDB" height="30px" weight="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
-  </a>
-  <a href="https://www.mysql.com/products/workbench" target="_blank" rel="noreferrer">
-      <img  alt="MySQL" height="30px" weight="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />    
-  </a>
-
+  
+  🌱 I'm currently improving my skills in React and Node.
+  
+  💻 All of my projects are available in my portfolio [archive](https://geisielmelo.netlify.app/#projects).
+  
+  ✉️ How to reach me [GeisielMelo](mailto:geisiel.nascimento@gmail.com).
+  
 </div>
 
-<!--------------------------------- Dev Tools --------------------------------->
+<br>
 
-<h4 align="center" style="color: #44AEFB">Dev Tools</h2>
 <div align="center">
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-      <img  alt="vscode" height="30px" weight="40" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-  </a>
-    <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
-      <img  alt="Canva" height="30px" weight="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/> 
-  </a>
-      <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-      <img  alt="Figma" height="30px" weight="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
-  </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-      <img  alt="Git" height="30px" weight="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  </a>
-  <a href="https://desktop.github.com/" target="_blank" rel="noreferrer">
-      <img  alt="Git" height="30px" weight="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-  </a>
-<!-------------------------------- Statistics --------------------------------->
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="REACT">
+    <img src="https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white" alt="REDIS">
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JAVASCRIPT">
+    <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NODE">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM">
+    <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="VITE">
+    <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLITE">
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MONGODB">
+    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="BASH">
+    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="PYTHON">
+    <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="PYSIDE6">
+    <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black" alt="NOTEPAD++">
+    <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCODE">
+    <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="SC">
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MYSQL">
+    <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" alt="EXPRESS">
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="FIGMA">
+    <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="CANVA">
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="POSTMAN">
+    <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLINT">
+    <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" alt="PRITTIER">
+</div>
 
 <br>
 <br>
-<br>
-<!-- Begin Stats Cards -->
+
 <div class="stats" align="center">
 
-<!--![Geisiel Melo GitHub Stats](https://github-readme-stats.vercel.app/api?username=GeisielMelo&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)-->
-
-![GitHub Streak](https://streak-stats.demolab.com?user=GeisielMelo&count_private=true&theme=algolia&border_radius=20)
-
-
-<!-- compact programming languages layout -->
-
-<!--![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GeisielMelo&layout=compact&show_icons=true&theme=algolia&border_radius=20)-->
+![GitHub Streak](https://streak-stats.demolab.com?user=GeisielMelo&count_private=true&theme=algolia&border_radius=0)
 
 </div>
-<!--  End Stats Cards -->
-
-<!-- Begin Footer -->
-
-
-<!-- Github & Languages Stats: https://github.com/anuraghazra/github-readme-stats -->
-<!-- Streak Stats: https://github.com/denvercoder1/github-readme-streak-stats -->
-<!-- https://devicon.dev/ -->
-<!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ -->
