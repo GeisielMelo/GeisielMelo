@@ -1,12 +1,12 @@
 # <div align="center">Full Stack Developer</div>
 
-### <div align="center">Visit my [Portfolio](https://geisielmelo.netlify.app/), It's the perfect place to get to know me better!</div>
+### <div align="center">Visit my [Portfolio](https://geisielmelo.vercel.app), It's the perfect place to get to know me better!</div>
 
 <div align="center">
   
   🌱 I'm currently improving my skills in React and Node.
   
-  💻 All of my projects are available in my portfolio [archive](https://geisielmelo.netlify.app/#projects).
+  💻 All of my projects are available in my [portfolio](https://geisielmelo.vercel.app).
   
   ✉️ How to reach me [GeisielMelo](mailto:geisiel.nascimento@gmail.com).
   
