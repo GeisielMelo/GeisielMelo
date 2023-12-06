@@ -40,20 +40,21 @@
     <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" alt="PRITTIER">
 </div>
 
+<!--
 <br>
 <br>
-
-<div class="stats" align="center">
+< <div class="stats" align="center">
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=GeisielMelo&count_private=true&theme=algolia&border_radius=0)
 
 </div>
+-->
 
 <br>
 <br>
 
 <div align="center">
-      <a href="https://www.linkedin.com/in/geisiel-nascimento-858346265" target="_blank">
+      <a href="https://www.linkedin.com/in/geisiel/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LINKEDIN">
       </a>
       <a href="mailto:geisiel.nascimento@gmail.com" target="_blank">
