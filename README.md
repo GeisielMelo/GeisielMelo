@@ -5,6 +5,8 @@
 <div align="center">
   
   🌱 I'm currently improving my skills in React and Node.
+
+  📚 Learning C# and ASP.NET.
   
   💻 All of my projects are available in my [portfolio](https://geisielmelo.vercel.app).
   
