@@ -1,6 +1,6 @@
 # <div align="center">Full Stack Developer</div>
 
-### <div align="center">Visit my [Portfolio](https://geisielmelo.vercel.app), It's the perfect place to get to know me better!</div>
+### <div align="center">Visit my [Portfolio](https://www.geisiel.com), It's the perfect place to get to know me better!</div>
 
 <div align="center">
   
@@ -8,7 +8,7 @@
 
   📚 Learning C# and ASP.NET Core.
   
-  💻 All of my projects are available in my [portfolio](https://geisielmelo.vercel.app).
+  💻 All of my projects are available in my [portfolio](https://www.geisiel.com/).
   
   ✉️ How to reach me [GeisielMelo](mailto:geisiel.nascimento@gmail.com).
   
@@ -69,8 +69,5 @@
       </a>
       <a href="mailto:geisiel.nascimento@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMAIL">
-      </a>
-      <a href="https://api.whatsapp.com/send?phone=557181608087&text=Hello, I came across your profile on GitHub and wanted to reach out to you." target="_blank">
-        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WHATSAPP">
       </a>
 </div>
