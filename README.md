@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hello folks ⌑
 
-<!--
-**GeisielMelo/GeisielMelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like making things, I'm a fairly curious person.
 
-Here are some ideas to get you started:
+I'm a Mid-level Developer on the Marketing team at UniFTC. My focus is web development; we create and support various projects such as APIs, CMSs, integrations, blogs, websites, etc. Many of these projects are public, but most are internal.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also enjoy developing my own projects like [github-profiles](https://profile-visualizer.vercel.app), [watchlist](https://watchlist.geisiel.com/), and [shiny](https://shinydex-pokedex.vercel.app/), where I have the opportunity to learn, apply my knowledge, and share my experiences with colleagues.
+
+I used to work as a freelancer, developing e-commerce websites.
+
+### You can learn more about me on my [website](https://www.geisiel.com). 
+
+🥂 Cheers!
